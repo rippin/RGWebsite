@@ -52,6 +52,10 @@ h1 {
     margin-bottom: 100px;
 }
 
+#lastest-video iframe {
+    position:relative;
+}
+
 #line {
     width: 75%;
     border-top: 1px solid white;
