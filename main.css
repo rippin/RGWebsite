@@ -13,6 +13,7 @@ body {
     background-image: url(images/zig%20zag%20wool.png);
     background-repeat: repeat;
     margin: 0;
+    min-height: 1200px;
 }
 
 header ul {
@@ -35,7 +36,7 @@ header ul li a {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
     font-style: normal;
-    font-weight: bold;
+    font-weight:900;
 }
 
 header ul li a:hover {
@@ -53,7 +54,7 @@ h1 {
 }
 #music-video {
    text-align: center;
-    margin-bottom: 150px;
+    margin-bottom: 250px;
     color:  #00baff;
 }
 #lastest-video iframe {
@@ -140,11 +141,13 @@ h1 {
 }
 
 #social {
+    width 100%;
     text-align: center;
     height: 250px;
     background-color: #262626;
     padding-left: 50px;
     border-top: 1px solid #ffffff;
+    margin-bottom: 0px;
 }
 
 
